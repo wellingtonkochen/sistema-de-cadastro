@@ -13,3 +13,4 @@ para executar o arquivo **app.js**
 ```
 npm app.js
 ```
+Foi criado um arquivo **index.html** para o projeto.
