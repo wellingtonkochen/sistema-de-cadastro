@@ -10,5 +10,5 @@ npm install react
 
 para executar o arquivo ""app.js""
 
-
-
+```
+npm app.js
